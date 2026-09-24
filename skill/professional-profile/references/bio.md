@@ -1,0 +1,31 @@
+# The bio
+
+Use at Phase 5b.
+
+A CV is not what circulates at senior level. A chair, a search consultant or a prospective client passes round a bio: one page, third person, written to be read by someone who has never heard the name. Draft it after the CV and before LinkedIn.
+
+Who gets one, and in which lengths. Read the bio scope off the working record, where it was recorded at Phase 1, and confirm it in one sentence rather than asking again from scratch. On tracks C, D and E the default is that a bio is drafted, because all three of those markets circulate one. The default is not an obligation: if they would rather not have one, say once what declining costs in their market, which is that a chair or a buyer passing their name on will write the introduction themselves from whatever they have, then accept the answer and skip the phase. On tracks A and B the default is that a bio is not drafted unless they asked for one at Phase 1, so read that answer rather than asking again. Record the outcome in the working record either way, so a skip is visible rather than silent.
+
+What can be published, asked before you draft rather than caveated afterwards. This is the one document that leaves the person's hands and gets forwarded, so settle three things first. Can the current employer be named, and do the people there know they are looking? Which client or engagement organisations are under an agreement that stops you naming them? Is there anything on the CV that is fine in an application and wrong in a document that circulates? Where an organisation cannot be named, use its sector and scale instead, since "a listed retailer employing 20,000 people" carries most of the credibility and none of the exposure. Record what can and cannot be named in the CONSTRAINTS section of the working record.
+
+Paragraph 1 has to stand alone, and this is the rule that matters most in the phase. A bio is rarely read whole on first contact: a programme takes the opening sentences, a board pack takes the first paragraph, someone forwarding a name takes two lines into an email. So write paragraph 1 as a complete bio in miniature rather than as an opening. It carries the name, the level, the current position and the one credential that makes a stranger keep reading, and it works from the locked positioning line without simply restating it. Test it by reading it alone and asking whether a stranger now knows who this person is.
+
+Shape it in four paragraphs. Paragraph 1 is the standalone above. Paragraphs 2 and 3 carry the record, and each track has three components: paragraph 2 takes the first, paragraph 3 takes the second and closes on the third, which is the sentence saying what this person brings that the record alone does not show. Paragraph 4 is the closing credentials. The components differ by track, and where they chose more than one, use the primary track's:
+- Track C: board and committee roles with organisation type and scale, then the executive career in three or four sentences of scope and judgement, then the expertise that fills the skills-matrix gap they named.
+- Tracks D and E: the problem they are hired to solve and for whom, then two or three engagements as situation, action and outcome, then the expertise that makes them the choice over a firm.
+- Tracks A and B, where wanted: the current role and remit, then the career in brief, then the capability they want to be known for.
+
+Paragraph 4, the closing credentials, is what a stranger checks the rest against: qualifications and professional memberships, current other appointments, and location where it affects whether someone can use them. Keep it to facts a reader could verify.
+
+Name institutions, and treat that as the positive rule rather than only cutting adjectives. A CV quantifies outcomes; a bio names things. Name the organisation, its sector and its scale, the committee, the regulator, the qualification, the jurisdiction. Where an agreement or the publication check above stops you naming one, substitute the sector and scale. A bio built from adjectives asserts credibility; a bio built from named institutions carries it.
+
+Third person throughout, using the pronouns captured at Phase 0, so "she chairs" rather than "I chair". Name them in full in the first sentence, then use the surname or the pronoun. No bullets. Apply the writing rules in `references/writing.md` and `references/ai-tells.md`, because this is the document that travels furthest and an AI tell in it is read by people who never see the CV. It is not a shortened CV and it is not a LinkedIn About rewritten in the third person, so do not produce either by trimming.
+
+Then produce the lengths they chose, in this same phase rather than later. Where a page exists, cut each one from the finished page in front of you, because versions written months apart drift, and a bio disagreeing with itself across lengths is the same failure the cross-check at Phase 7 exists to catch. Where they declined the page and asked for a short form alone, write it directly from the record instead, and hold it to the same standards.
+
+- The short version, three or four sentences, for a programme, a panel listing or an introduction. Where there is a page, lead with paragraph 1, since it was written to stand alone, then add the single strongest item from the record. Where there is no page, write it to the same test: a stranger reading these sentences alone should know who this person is.
+- The single line. Third person, carrying the name, for a signature, a directory or a forwarded email. This is close to the locked positioning line from Phase 2 without being the same thing: that line is a working tool written in the target audience's language, and this one is written to be read in public by a stranger. Do not paste the positioning line and call it done.
+
+If they want only a short form and not the page, say once that cutting it from a finished page makes it markedly better and costs one reply, then let them decide. If they still want the short form alone, write it directly and do not draft the page. If they take the page as working material without wanting to keep it, say that is what it is for.
+
+Review the bio through the panel the tracks use, by the review method in `references/personas.md`.
