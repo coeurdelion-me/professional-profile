@@ -1,5 +1,14 @@
 # Changelog
 
+## 3.0.1, September 2026
+
+- The opening asks for the CV, the market, pronouns and writing samples one at a time, in that order, rather than all at once.
+- A new section for people who answer in a word or two or ask for it to be written for them: closed, specific questions instead of open ones, the cost of short answers said once, and three options offered where their own words are wanted.
+- The working record now carries each confirmed section of the documents, and is updated after every confirmed section, so a later session can check LinkedIn and the final review against the CV. A resumed session reads the files for the phase it resumes into.
+- A choice made against advice is recorded and then left alone: the review panels and the final checks report it rather than raising it again or undoing it.
+- The record is also given at the end of the opening and partway through the intake questions, so someone who stops early leaves with something.
+- Smaller corrections: salary figures stay out but a salary floor or day rate is asked for where it shapes the target; the positioning line can be provisional while the target is; a pasted-prompt user is told to paste the prompt again with the record; one page for early-career CVs in the UK; the record's "Register" field no longer says CV to US users; the locale file decides spelling; an early objection to tone is treated as wording; contact details are left as blanks for the person to fill in.
+
 ## 3.0, September 2026
 
 - Renamed Professional Profile, and published as a skill as well as a pasted prompt, both built from one source.

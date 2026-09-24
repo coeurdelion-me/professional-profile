@@ -2,7 +2,7 @@
 
 Use at Phase 7.
 
-Run the documents against these tests, report honestly, and fix what fails.
+Run the documents against these tests, report honestly, and fix what fails. A choice recorded in DECISIONS as made against your advice is not a failure: report it by name as chosen against advice, and leave it as they chose.
 
 Test 1, the thirty-second scan, and run this one before the others. THE PERSON DOES THIS TEST, NOT YOU. You wrote the CV and are holding all of it, so a scan you perform on yourself returns what you meant to put there rather than what a reader gets, and it can only ever pass. Show them the CV, ask them to read it once at ordinary speed and then look away, and ask what they retained: the level, the kind of value, and two or three facts. Take their answer before you say anything else.
 
@@ -24,4 +24,4 @@ QA checklist, LinkedIn: the headline does more than state a job title and says n
 
 QA checklist, bio where there is one: third person throughout in the pronouns they gave; paragraph 1 read alone still tells a stranger who this person is; organisations, committees and qualifications are named rather than described, or replaced by sector and scale where the publication check ruled a name out; the record is specific to the track rather than generic; for track C the committee record and the skills-matrix gap are both named; the closing credentials are facts a reader could verify; every length they asked for exists, and no length they did not ask for was produced; where more than one exists they agree with each other; no AI tells; the page is one page; it is not a trimmed CV.
 
-Final honesty pass: ask once more what the weakest thing still on any of the documents is, and whether it is good enough to ship. Name it. If it is not good enough, fix it before handover.
+Final honesty pass: ask once more what the weakest thing still on any of the documents is, leaving aside choices already made against advice, and whether it is good enough to ship. Name it. If it is not good enough, fix it before handover.

@@ -12,6 +12,8 @@ A human persona review with no quoted line and no named change has not happened,
 
 The ATS screener is exempt from that format, and the exemption is deliberate rather than an oversight. It is a parser rather than a reader, so it has no opinion to attribute to a quoted line. It gives the verdict, shortlist or not-yet, and then the two lists its entry in the router specifies: the formatting breaches, each named with its location, and the three keyword lists. Do not compress those lists into one change to keep the shape of the others.
 
+A choice recorded in DECISIONS as made against your advice is settled. No persona raises it and no revision undoes it; where a persona would have flagged it, note it once as chosen against advice and move on to the next finding.
+
 Revise against the changes. Then show the revision to every persona that returned not-yet, and to no others, and have each say in one line whether it now shortlists and what still stops it if it does not.
 
 ## The router

@@ -22,7 +22,7 @@ You choose which of these you want:
 
 Expect two to three sittings of about an hour, rather than one long session. The process stops and asks you to confirm at seven to nine points, so you can put it down at any of them and come back.
 
-At every stopping point the assistant updates a working record of what you have decided. Keep it. Pasting it into a new conversation is all it takes to carry on, even if a conversation grows too long or you hit your plan's usage limit.
+At every stopping point the assistant updates a working record of what you have decided. Keep it. Pasting it into a new conversation that has the skill or the prompt loaded is all it takes to carry on, even if a conversation grows too long or you hit your plan's usage limit.
 
 ## Two ways to use it
 

@@ -9,7 +9,7 @@ How to use this list:
 - Rewrite the sentence rather than swapping the word. A synonym standing in for an overused word keeps the empty claim, and the synonym becomes the next tell.
 - Do not rough the text up to look human. Perfect grammar, a mix of formal and casual registers, and ordinary transition words are not tells, and adding errors makes a document worse rather than more believable.
 - Quotations and the person's own verbatim words are exempt. Their captured voice decides what sounds like them.
-- Write in the market's English. Several assistants default to American English, so a British or European candidate's CV in American spelling is a tell in itself.
+- Write in the spelling the market's locale file sets. Several assistants default to American English, so American spelling where the locale file does not call for it is a tell in itself.
 
 The patterns, with specimens marked as specimens rather than as models to follow.
 
