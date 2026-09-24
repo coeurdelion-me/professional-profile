@@ -9,6 +9,7 @@
 - The AI-tells list is rebuilt from Wikipedia's field guide and published research, and fixes the cause (a generic claim) rather than the surface pattern.
 - Plain language judged by four reader-outcome tests from ISO 24495-1.
 - Platform facts moved to one dated file. Claude Cowork and ChatGPT guidance re-checked in September 2026.
+- Licensed under CC BY-NC 4.0.
 
 ## 2.0, August 2026
 

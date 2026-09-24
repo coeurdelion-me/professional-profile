@@ -2,6 +2,7 @@
 name: professional-profile
 description: Interviews one person and builds their CV or resume, LinkedIn profile text and, where wanted, a short professional bio, all aimed at one named reader, for the UK, US or European markets in English. Use when someone wants to write, rewrite or overhaul a CV, resume, LinkedIn profile or professional bio for a permanent role, a career change, a board or non-executive search, interim or fractional work, or independent consulting. Runs over two or three sittings with confirmation gates. Not for a quick tidy-up of a few lines, and not for tailoring a finished CV to one application.
 compatibility: Works in any assistant that can hold a long conversation. Saving the working record as a file needs file access; without it the record is printed for the person to keep.
+license: CC-BY-NC-4.0
 metadata:
   version: "3.0"
 ---

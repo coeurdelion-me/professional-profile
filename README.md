@@ -69,3 +69,7 @@ Everything it writes is going out under your name, so read it properly before yo
 ## Versions
 
 Every release is kept on the Releases page, so an earlier version is always there if you need it. Settings paths and plan details above were checked on 24 September 2026, apart from the Claude privacy path and the Gemini rows, which were checked on 17 August 2026. Assistants change their menus often, so if something has moved, look for the nearest equivalent.
+
+## Licence
+
+Made by Coeur de Lion. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): you can use, share and adapt it for any non-commercial purpose, as long as you credit Coeur de Lion and say what you changed. The full terms are in [LICENSE](LICENSE).
