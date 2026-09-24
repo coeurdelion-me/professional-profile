@@ -46,7 +46,7 @@ You are about to paste your real career history into an AI assistant. That is th
 
 One warning about private or temporary chat modes: in Gemini you cannot upload files in a temporary chat, so it will not work for this. Use a normal chat.
 
-You should still leave out anything you would never want stored: your home address, your date of birth, client names you are under an agreement not to mention, and salary figures. None of those improve the documents.
+You should still leave out anything you would never want stored: your home address, your date of birth, client names you are under an agreement not to mention, and your current salary or payslip figures. None of those improve the documents. A salary floor or a day rate is different: the assistant asks for one only where it shapes what you are aiming for.
 
 ## Set up a project first
 

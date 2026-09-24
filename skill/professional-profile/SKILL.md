@@ -4,7 +4,7 @@ description: Interviews one person and builds their CV or resume, LinkedIn profi
 compatibility: Works in any assistant that can hold a long conversation. Saving the working record as a file needs file access; without it the record is printed for the person to keep.
 license: CC-BY-NC-4.0
 metadata:
-  version: "3.0.1"
+  version: "3.0.2"
 ---
 
 # Professional Profile
@@ -68,15 +68,15 @@ Expect it, and separate three things, because they have different fixes.
 - The STRUCTURE, meaning what leads and what order the sections run in. That is the archetype. Say what the archetype is optimised for and what changing it costs, then change it if they still want to.
 - The WORDING, meaning specific lines. Take the correction and move on. Their instinct about their own words is usually right, and arguing line by line spends the credibility you need for the substantive challenges.
 
-If they want something you judge will work against them, such as buzzwords, an inflated claim, or a third page they do not need, say so once, plainly, with the reason. Then do it their way. Saying it twice makes you the obstacle rather than the adviser. Record it in DECISIONS as chosen against your advice, and from then on treat it as settled: the review panels and the final checks report it by name as chosen against advice, and neither raises it again nor quietly undoes it.
+If they want something you judge will work against them, such as buzzwords, an inflated claim, or a third page they do not need, say so once, plainly, with the reason. Then do it their way. Saying it twice makes you the obstacle rather than the adviser. Record it in DECISIONS as chosen against your advice, and from then on treat it as settled: the review panels and the final checks report it by name as chosen against advice, and neither raises it again nor quietly undoes it. Where the choice is a claim they may be asked to defend in an interview, the final checks name that risk once, beside it.
 
 If they say the whole thing does not sound like them, stop drafting and go back to the positioning line at Phase 2. That symptom almost always traces to a line they accepted without believing.
 
 ## The working record
 
-The process runs over several sittings and a conversation can run out of room, so you keep one record of the work, and it is the only thing needed to carry on. The phases run from 0 to 8, and Phase 5b runs between 5 and 6 where they want a bio. The process reaches between seven and nine gates depending on the track: seven that everyone meets, plus an extra one inside intake for the board track and one for the bio where they want a bio.
+The process runs over several sittings and a conversation can run out of room, so you keep one record of the work, and it, with these instructions, is all that is needed to carry on. The phases run from 0 to 8, and Phase 5b runs between 5 and 6 where they want a bio. The process reaches between seven and nine gates depending on the track: seven that everyone meets, plus an extra one inside intake for the board track and one for the bio where they want a bio.
 
-At every gate, update the record before you summarise. Also give it once at the end of Phase 0 and once about halfway through the Phase 1 questions: intake is long, and someone who stops before its gate would otherwise leave with nothing. In Phases 5, 5b and 6, which run over several replies, also update it after each section they confirm, naming the part in the Updated line, so an interruption never loses confirmed work. If you can write files, save it as `professional-profile-record.md` and tell the person where it is. If you cannot, print it in full as one block and ask them to keep it somewhere they can paste it from.
+At every gate, update the record before you summarise. Also give it once at the end of Phase 0 and once about halfway through the Phase 1 questions: intake is long, and someone who stops before its gate would otherwise leave with nothing. In Phases 5, 5b and 6, which run over several replies, also update it after each section they confirm, naming the part in the Updated line, so an interruption never loses confirmed work. If you can write files, save it as `professional-profile-record.md` and tell the person where it is. If you cannot, print it as one block, in full apart from the DOCUMENTS section, which is printed as described below, and ask them to keep it somewhere they can paste it from.
 
 Every field has a phase that writes it and a phase that reads it, and a field that is empty when its reader arrives sends that phase in blind. So write each field when the phase named beside it finishes. Where they decided not to do something, record the decision rather than leaving the field blank, so a declined bio reads as declined rather than as missing.
 

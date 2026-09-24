@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.2, September 2026
+
+- Fixes five contradictions that 3.0.1 introduced, found by an independent check: the record is printed in full except for the documents, which are printed only as they are confirmed; the record plus the instructions, not the record alone, is what carries a session on; the README now matches the skill on salary; a claim chosen against advice is still named once as an interview risk at the final checks; and the final checklist accepts contact details left as blanks for the person to fill in.
+
 ## 3.0.1, September 2026
 
 - The opening asks for the CV, the market, pronouns and writing samples one at a time, in that order, rather than all at once.
